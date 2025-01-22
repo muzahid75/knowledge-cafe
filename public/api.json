@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co.com/yWq7Lvk/html-css-collage-concept.jpg",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author_name": "Alice Johnson",
+      "posted_date": "15 January 2025",
+      "title": "Exploring the Future of AI",
+      "hastage": ["#AI", "#Technology", "#Innovation"],
+      "reading_time": 5
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co.com/j8L3jHN/php-programming-html-coding-cyberspace-concept.jpg",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author_name": "Bob Smith",
+      "posted_date": "10 January 2025",
+      "title": "10 Tips for Web Developers",
+      "hastage": ["#WebDevelopment", "#Coding", "#Tips"],
+      "reading_time": 8
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co.com/JmCgxF8/programming-background-with-person-working-with-codes-computer.jpg",
+      "author_img": "https://i.ibb.co.com/yfGQPRL/female-student-sitting-desk.jpg",
+      "author_name": "Clara Davis",
+      "posted_date": "01 January 2025",
+      "title": "Mastering React in 2025",
+      "hastage": ["#ReactJS", "#Frontend", "#JavaScript"],
+      "reading_time": 6
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co.com/QKzm5Sg/programming-background-collage.jpg",
+      "author_img": "https://i.ibb.co.com/pjWV80F/front-view-young-worker-sitting-desk-writing-something-office.jpg",
+      "author_name": "Daniel Lee",
+      "posted_date": "20 January 2025",
+      "title": "Understanding Tailwind CSS",
+      "hastage": ["#TailwindCSS", "#CSS", "#Design"],
+      "reading_time": 7
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co.com/h8YgC9c/programming-background-with-html.jpg",
+      "author_img": "https://i.ibb.co.com/s54kVdG/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "author_name": "Emma Martinez",
+      "posted_date": "5 January 2025",
+      "title": "A Guide to Modern Backend Development",
+      "hastage": ["#Backend", "#NodeJS", "#Programming"],
+      "reading_time": 9
+    }
+  ]
+  
