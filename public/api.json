@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover_img": "https://i.ibb.co.com/yWq7Lvk/html-css-collage-concept.jpg",
+      "cover_img": "https://i.ibb.co.com/sFdBLF1/programming-background-with-person-working-with-codes-computer.jpg",
       "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
       "author_name": "Alice Johnson",
       "posted_date": "15 January 2025",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover_img": "https://i.ibb.co.com/j8L3jHN/php-programming-html-coding-cyberspace-concept.jpg",
+      "cover_img": "https://i.ibb.co.com/80B89vs/programming-background-with-html.webp",
       "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
       "author_name": "Bob Smith",
       "posted_date": "10 January 2025",
@@ -21,8 +21,8 @@
     },
     {
       "id": 3,
-      "cover_img": "https://i.ibb.co.com/JmCgxF8/programming-background-with-person-working-with-codes-computer.jpg",
-      "author_img": "https://i.ibb.co.com/yfGQPRL/female-student-sitting-desk.jpg",
+      "cover_img": "https://i.ibb.co.com/6PD6MpG/programming-background-collage.webp",
+      "author_img": "https://i.ibb.co.com/THbDjGL/female-student-sitting-desk.webp",
       "author_name": "Clara Davis",
       "posted_date": "01 January 2025",
       "title": "Mastering React in 2025",
@@ -31,8 +31,8 @@
     },
     {
       "id": 4,
-      "cover_img": "https://i.ibb.co.com/QKzm5Sg/programming-background-collage.jpg",
-      "author_img": "https://i.ibb.co.com/pjWV80F/front-view-young-worker-sitting-desk-writing-something-office.jpg",
+      "cover_img": "https://i.ibb.co.com/rHt4z6Y/php-programming-html-coding-cyberspace-concept.jpg",
+      "author_img": "https://i.ibb.co.com/87Qwpq0/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.webp",
       "author_name": "Daniel Lee",
       "posted_date": "20 January 2025",
       "title": "Understanding Tailwind CSS",
@@ -41,8 +41,8 @@
     },
     {
       "id": 5,
-      "cover_img": "https://i.ibb.co.com/h8YgC9c/programming-background-with-html.jpg",
-      "author_img": "https://i.ibb.co.com/s54kVdG/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "cover_img": "https://i.ibb.co.com/qYwGXCN/html-css-collage-concept.jpg",
+      "author_img": "https://i.ibb.co.com/CKxYfY1/front-view-young-worker-sitting-desk-writing-something-office.webp",
       "author_name": "Emma Martinez",
       "posted_date": "5 January 2025",
       "title": "A Guide to Modern Backend Development",

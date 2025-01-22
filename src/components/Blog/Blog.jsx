@@ -22,7 +22,7 @@ const Blog = ({ blog,handleBookmarkButton,handleReadingTime }) => {
             <p className="text-5xl">{title}</p>
             <div>
                 {
-                    hastage.map((a, idx) => <span className="mr-3" key={idx}>{a}</span>)
+                    hastage.map((a, idx) => <span className="mr-3" key={idx}><a href="#">{a}</a></span>)
                 }
             </div>
 
